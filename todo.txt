@@ -3,7 +3,7 @@ home page
 
 header (links to blog, ,hobbies/interests)
 
-
+// center!!!!
 skills / technologies
 
 (currently) learning section
