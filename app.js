@@ -13,6 +13,10 @@ app.get('/', function (request, response) {
   response.render('index');
 });
 
+app.get('/blog', function (request, response) {
+  response.render('nick');
+});
+
 app.listen(3000, function () {
  console.log('Example app listening on port 3000!');
 });
