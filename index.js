@@ -27,6 +27,7 @@ app.get('/cool', function(request, response) {
 });
 
 
+
 app.get('/random', function (request, response) {
   //landing page for 30 day challenge mini projects
   response.render('random');
